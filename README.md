@@ -7,6 +7,7 @@ Each lab includes a topology diagram, device configurations, network verificatio
 ## Labs
 
 - [Lab 01: Two PCs and One Switch](./labs/01-two-pcs-one-switch/README.md)
+- [Lab 02: Connecting Two Subnets with a Router](./labs/02-two-subnets-one-router/README.md)
 
 ---
 
